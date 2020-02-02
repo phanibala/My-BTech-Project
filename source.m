@@ -1,5 +1,4 @@
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-
+% Author : Phani Bala @2016
 % import input images
 clc;
 clear all;
